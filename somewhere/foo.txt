@@ -1,0 +1,3 @@
+foo
+also added a line
+foo

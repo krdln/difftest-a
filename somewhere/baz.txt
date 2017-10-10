@@ -1,0 +1,3 @@
+baz
+baz
+also added a line
